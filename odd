@@ -13,6 +13,7 @@ else
 {
 printf("odd");
 }
+}
 else
 {
 printf("invalid");
